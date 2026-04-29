@@ -6,6 +6,7 @@ For Windows:
 Just open the .exe file
 For Linux:
 Just open the .sh file
+Link to files:https://drive.google.com/drive/folders/17TJJ0IlhzUkqPjwa36ul1aD2p2ms4AVP?usp=sharing
 
 Sources:
 https://whttps://ru.pinterest.com/ww.renpy.org/latest.html
@@ -18,6 +19,7 @@ SyntaxGame для тренировки навыков синтаксиса Pytho
    Просто откройте файл .exe
 2. Для Linux:
    Просто откройте файл .sh
+Ссылка на файлы:https://drive.google.com/drive/folders/17TJJ0IlhzUkqPjwa36ul1aD2p2ms4AVP?usp=sharing
 
 
 Источники:

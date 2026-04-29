@@ -11,7 +11,7 @@ Just open the .sh file
 Link to files:https://drive.google.com/drive/folders/17TJJ0IlhzUkqPjwa36ul1aD2p2ms4AVP?usp=sharing
 
 Sources:
-https://whttps://ru.pinterest.com/ww.renpy.org/latest.html
+https://www.renpy.org
 https://ru.pinterest.com/
 
 RU:
@@ -27,7 +27,7 @@ SyntaxGame для тренировки навыков синтаксиса Pytho
 
 
 Источники:
-https://whttps://ru.pinterest.com/ww.renpy.org/latest.html
+https://www.renpy.org
 https://ru.pinterest.com/
 
 
